@@ -77,7 +77,6 @@ void printMahasiswaData(const Mahasiswa &mhs) {
 int main() {
     int jumlahMhs = jumlahMahasiswa();
     Mahasiswa mhs[jumlahMhs];
-
     for (int i = 0; i < jumlahMhs; i++) {
         cout << "     **input Mahasiswa ke-" << i + 1 << "**" << endl; 
         mahasiswaInfo(mhs[i]);
