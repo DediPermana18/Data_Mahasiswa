@@ -1,0 +1,38 @@
+
+|======== DATA MAHASISWA ========
+| --- identitas ---
+| Nama   : budi nasi goreng
+| Umur   : 25
+| Jurusan: TATA BOGA
+| NISN   : 11112
+|
+| --- Tanggal Lahir ---
+| tanggal 12 /bulan 1 /tahun 2000
+|
+|============ Nilai ============
+| --- UAS ---
+| MTK        : 87 * 35% --> 30.45
+| IPA        : 89 * 25% --> 22.25
+| B.Indonesia: 97 * 20% --> 19.4
+| B.Inggris  : 79 * 20% --> 15.8
+|
+| --- UTS ---
+| MTK        : 88 * 35% --> 30.8
+| IPA        : 99 * 25% --> 24.75
+| B.Indonesia: 77 * 20% --> 15.4
+| B.Inggris  : 79 * 20% --> 15.8
+|
+| --- TUGAS ---
+| MTK        : 89 * 35% --> 31.15
+| IPA        : 87 * 25% --> 21.75
+| B.Indonesia: 78 * 20% --> 15.6
+| B.Inggris  : 98 * 20% --> 19.6
+|
+| --- Bobot Nilai ---
+| UAS   : 87.9 * 40% --> 35.16
+| UTS   : 86.75 * 35% --> 30.3625
+| Tugas : 88.1 * 25% --> 22.025
+|
+| --- Rata-rata ---
+| Nilai Rata-rata Akhir: 87.5475
+|================================

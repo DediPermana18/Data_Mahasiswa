@@ -1,0 +1,38 @@
+
+|======== DATA MAHASISWA ========
+| --- identitas ---
+| Nama   : siti sambalado
+| Umur   : 20
+| Jurusan: pertanian
+| NISN   : 11113
+|
+| --- Tanggal Lahir ---
+| tanggal 23 /bulan 8 /tahun 2005
+|
+|============ Nilai ============
+| --- UAS ---
+| MTK        : 89 * 35% --> 31.15
+| IPA        : 98 * 25% --> 24.5
+| B.Indonesia: 78 * 20% --> 15.6
+| B.Inggris  : 87 * 20% --> 17.4
+|
+| --- UTS ---
+| MTK        : 79 * 35% --> 27.65
+| IPA        : 97 * 25% --> 24.25
+| B.Indonesia: 89 * 20% --> 17.8
+| B.Inggris  : 87 * 20% --> 17.4
+|
+| --- TUGAS ---
+| MTK        : 79 * 35% --> 27.65
+| IPA        : 97 * 25% --> 24.25
+| B.Indonesia: 89 * 20% --> 17.8
+| B.Inggris  : 87 * 20% --> 17.4
+|
+| --- Bobot Nilai ---
+| UAS   : 88.65 * 40% --> 35.46
+| UTS   : 87.1 * 35% --> 30.485
+| Tugas : 87.1 * 25% --> 21.775
+|
+| --- Rata-rata ---
+| Nilai Rata-rata Akhir: 87.72
+|================================

@@ -1,0 +1,17 @@
+==============================
+   DAFTAR RANKING MAHASISWA
+==============================
+Ranking ke-1
+Nama        : siti sambalado
+NISN        : 11113
+Umur        : 20
+Jurusan     : pertanian
+Nilai Akhir : 87.72
+----------------------------------
+Ranking ke-2
+Nama        : budi nasi goreng
+NISN        : 11112
+Umur        : 25
+Jurusan     : TATA BOGA
+Nilai Akhir : 87.5475
+----------------------------------
